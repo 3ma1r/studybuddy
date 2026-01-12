@@ -34,3 +34,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# explicit env protection
+.env.local
+
+# firebase admin / service accounts (very important)
+firebase-adminsdk-*.json
+serviceAccountKey.json
+*.json
+
+# windows junk
+Thumbs.db
+
