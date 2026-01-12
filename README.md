@@ -102,7 +102,7 @@ NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=123456789
 NEXT_PUBLIC_FIREBASE_APP_ID=1:123456789:web:abc123
 
 # OpenAI API Key (from step 3)
-OPENAI_API_KEY=sk-...
+OPENAI_API_KEY= YOUR_KEY_HERE
 
 # Firebase Admin (optional, from step 2.5)
 FIREBASE_CLIENT_EMAIL=firebase-adminsdk-xxxxx@your-project.iam.gserviceaccount.com
